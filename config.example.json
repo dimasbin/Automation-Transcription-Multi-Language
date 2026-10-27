@@ -1,0 +1,11 @@
+{
+    "api_keys": [
+        "YOUR_PRIMARY_GEMINI_API_KEY",
+        "YOUR_SECONDARY_BACKUP_API_KEY"
+    ],
+    "language": "ja",
+    "hotkey": "f9",
+    "switch_hotkey": "f10",
+    "auto_paste": false
+}
+

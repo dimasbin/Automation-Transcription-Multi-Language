@@ -1,1 +1,32 @@
-/config.json
+# Sensitive configuration (contains API keys)
+config.json
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+venv/
+env/
+
+# Editor files
+.vscode/
+.idea/
+# Sensitive configuration (contains API keys)
+config.json
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+venv/
+env/
+
+# Editor files
+.vscode/
+.idea/
