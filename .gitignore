@@ -1,21 +1,9 @@
 # Sensitive configuration (contains API keys)
 config.json
 
-# Python cache & compiled files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Environments
-.env
-venv/
-env/
-
-# Editor files
-.vscode/
-.idea/
-# Sensitive configuration (contains API keys)
-config.json
+# Daily transcription logs & history
+history_*.txt
+transcription_history.txt
 
 # Python cache & compiled files
 __pycache__/

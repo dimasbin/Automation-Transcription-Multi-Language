@@ -6,6 +6,8 @@
     "language": "ja",
     "hotkey": "f9",
     "switch_hotkey": "f10",
-    "auto_paste": false
+    "diarization_hotkey": "f8",
+    "diarization": false,
+    "auto_paste": false,
+    "save_history": true
 }
-
